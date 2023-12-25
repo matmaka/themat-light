@@ -1,0 +1,24 @@
+{
+  "name": "themat-light",
+  "author": "MatMaka",
+  "color": [
+    "#ffffff",
+    "#e0000c",
+    "#39c940",
+    "#d29a5d",
+    "#253eff",
+    "#7400e4",
+    "#1fb4dc",
+    "#e3e4e5",
+    "#68717c",
+    "#e0000c",
+    "#39c940",
+    "#d29a5d",
+    "#253eff",
+    "#7400e4",
+    "#1fb4dc",
+    "#e3e4e5"
+  ],
+  "foreground": "#68717c",
+  "background": "#ffffff"
+}
